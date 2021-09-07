@@ -6,7 +6,7 @@ Well-versed in Ruby <img src="https://raw.githubusercontent.com/github/explore/8
 
 Can't forget good CSS on a top of it <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px"></img>
 
-Current goal? 
+Current goal? <br>
 Build new career in tech to really dive deep into web development!
 
 Find me on:
