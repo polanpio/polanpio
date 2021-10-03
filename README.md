@@ -1,6 +1,7 @@
 ### Hey! I'm Piotr.
 
 I'm a full stack developer based in Kawsaki, Japan.
+<iframe src="https://giphy.com/embed/jyrgehFsVsUxXNiRcb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/JNTOFrankfurt-japan-torii-jnto-jyrgehFsVsUxXNiRcb">via GIPHY</a></p>
 
 Well-versed in Ruby <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="20px"></img>, but in love with Javascript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"></img>.
 
