@@ -23,9 +23,12 @@ Build new career in tech to really dive deep into web development!
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=polanpio&show_icons=true&locale=en&layout=compact" alt="polanpio" /></p><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polanpio&" alt="polanpio" /></p>
 
 <h3 align="center">Find me on:</h3>
-<a align="center" href="https://www.linkedin.com/in/polanski-piotr/">
-  <img alt="codeSTACKr | LinkedIn" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" style="max-width: 100%;" width="26px">
-</a>
+<div align="center">
+   <a href="https://www.linkedin.com/in/polanski-piotr/">
+     <img alt="codeSTACKr | LinkedIn" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" style="max-width: 100%;" width="26px">
+   </a>
+</div>
+   
 <a align="center" href="https://www.polanskipiotr/">MY PORTFOLIO</a>
 
 
