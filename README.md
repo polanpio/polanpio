@@ -11,7 +11,7 @@ Current goal? <br>
 Build new career in tech to really dive deep into web development!
    </div>
    <div>
-<img align='right' src="https://media.giphy.com/media/jyrgehFsVsUxXNiRcb/giphy.gif" width="230">  
+<img src="https://media.giphy.com/media/jyrgehFsVsUxXNiRcb/giphy.gif" width="230">  
       
    </div>
    
