@@ -1,5 +1,5 @@
-### Hey! I'm Piotr.
-<table>
+<h2 align="center">Hey! I'm Piotr.</h2>
+<table align="center">
   <tr>
     <td 
         <div display="flex">
