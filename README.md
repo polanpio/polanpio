@@ -7,7 +7,7 @@
       <p>I'm a full stack developer based in Kawsaki, Japan.</p>
       <p>Well-versed in Ruby <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="20px"></img>, but in love with Javascript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"></img>.</p>
        <p>Can't forget good CSS on a top of it <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px"></img></p>
-       <p>Lately I'm working with React <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"width="20px"></img> & Vue <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"width="20px"></img></p>
+       <p>Lately I'm working with React <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"width="20px"></img> & Vue <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"width="16px"></img></p>
        <p>Current goal?</p>
        <p>Build new career in tech to really dive deep into web development!</p>
    </div>
