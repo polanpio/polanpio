@@ -34,8 +34,7 @@
 <p align="center"> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/> </a>  </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a></p> 
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=polanpio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true&locale=en&layout=compact" alt="polanpio" /></p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polanpio alt="polanpio" /></p> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=polanpio&theme=dark)](https://git.io/streak-stats)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" alt="polanpio" /></p>
 
 <h3 align="center">Find me on:</h3>
 <div align="center">
